@@ -1,12 +1,13 @@
 import React, { Component } from 'react';
-import ShoppingListInput from './ShoppingListInput';
+import ChampionSearch from './ChampionSearch';
+
 
 class Display extends Component {
     render() {
         return (
             <div>
-                <h1>Make your build</h1>
-                
+                <h1>Choose your Champion</h1>
+                <ChampionSearch />
             </div>
         );
     }
