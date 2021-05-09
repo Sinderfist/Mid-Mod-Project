@@ -1,3 +1,46 @@
 .App {
   text-align: center;
+  justify-content: center;
+}
+.display{
+  border: 1px black solid;
+  height:100vh;
+  width: 100vw;
+  background-image: url(./LeaguePics/League\ background.jpg);
+  background-repeat: no-repeat;
+  background-size:auto 100vh;
+  /* display: flex; */
+  /* justify-content: center; */
+}
+
+.formBox{
+display: fixed;
+}
+.justInCase{
+  /* justify-self: center; */
+  background-color: white;
+  width: 300px;
+  height: 200px;
+  
+}
+
+.container{
+  display: fixed;
+  justify-content: center;
+}
+.nameBox{
+background-color: white;
+}
+.titleBox{
+  background-color: white;
+
+}
+.blurbBox{
+  justify-self: center;
+  background-color: white;
+  height:200px;
+ 
+}
+.tagBox{
+  background-color: white;
 }

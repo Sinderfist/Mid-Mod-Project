@@ -8,7 +8,6 @@ class ChampionSearch extends Component {
         this.state = {
             userInput: '',
             name: 'NoNameYet'
-            // this.state.data.userInput.blurb
 
         }
     }
@@ -25,6 +24,8 @@ class ChampionSearch extends Component {
         event.preventDefault()
         this.setState({ name: this.state.userInput })
 
+
+
         // fetch ('http://ddragon.leagueoflegends.com/cdn/11.9.1/data/en_US/champion.json')
         // .then((res)=> res.json())
         // .then((data)=> {
@@ -39,7 +40,7 @@ class ChampionSearch extends Component {
 
     render() {
         return (
-            <div>
+            <div className='formBox'>
                 <label>
                     <form onSubmit={this.searchChampion}>
                         <input typeof="text" name='name' value={this.state.userInput} onChange={this.handleChange}></input>

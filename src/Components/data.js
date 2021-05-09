@@ -17,7 +17,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Aatrox.png",
+                "full": '',
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 0,
@@ -7147,8 +7147,8 @@ let apiChampionData = {
                 "h": 48
             },
             "tags": [
-                "Mage",
-                "Support"
+                "",
+                ""
             ],
             "partype": "Mana",
             "stats": {
