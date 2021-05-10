@@ -20,34 +20,38 @@ class ChampionSearch extends Component {
         console.log(this.userInput)
     }
 
+    // spellingCorrector = (input) => {
+    //     (console.log('input'))
+    // }
+
     searchChampion = (event) => {
         event.preventDefault()
-        this.setState({ name: this.state.userInput })
-
-
-
-        // fetch ('http://ddragon.leagueoflegends.com/cdn/11.9.1/data/en_US/champion.json')
-        // .then((res)=> res.json())
-        // .then((data)=> {
-        //     console.log(data.data)
-        //     this.setState({
-        //     name: this.state.userInput,
-        //     data: data.data
-        //      })
-        // })   
+        let word = this.state.userInput
+        
+        this.setState({ name: word.charAt(0).toUpperCase() + word.slice(1) })
 
     }
 
     render() {
         return (
             <div className='formBox'>
+                <div className='justInCase'>
+                    <text>If you're unfamiliar with League of Legends please type in one of these names to see what this app does!</text>
+                    <ul>
+                        <li>Aatrox</li>
+                        <li>Renekton</li>
+                        <li>Jhin</li>
+                    </ul>
+                </div>
+
                 <label>
                     <form onSubmit={this.searchChampion}>
-                        <input typeof="text" name='name' value={this.state.userInput} onChange={this.handleChange}></input>
+                        <input typeof="text" name='name' onChange={this.handleChange}></input>
                         <button typeof='submit'>Search</button>
-                        <ChampCard champData={this.props.champData} name={this.state.name} />
+                        
                     </form>
                 </label>
+                <ChampCard champData={this.props.champData} name={this.state.name} />
             </div>
         );
     }

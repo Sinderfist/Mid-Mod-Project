@@ -2,45 +2,50 @@
   text-align: center;
   justify-content: center;
 }
+
 .display{
   border: 1px black solid;
   height:100vh;
   width: 100vw;
-  background-image: url(./LeaguePics/League\ background.jpg);
+  background-image: url(../src/Components/LeaguePics/League\ background.jpg);
   background-repeat: no-repeat;
   background-size:auto 100vh;
-  /* display: flex; */
-  /* justify-content: center; */
+
 }
 
 .formBox{
-display: fixed;
+display: flex;
+flex-direction: column;
+/* border: 1px solid red; */
+height: 80%;
+
 }
+
 .justInCase{
-  /* justify-self: center; */
-  background-color: white;
-  width: 300px;
-  height: 200px;
+  background-color: rgba(197, 195, 195, 0.87);
+  width:50%;
+  margin: 0 auto;
   
 }
 
-.container{
-  display: fixed;
-  justify-content: center;
+.justInCase>ul{
+  list-style: none;
 }
-.nameBox{
-background-color: white;
-}
-.titleBox{
-  background-color: white;
 
+
+.container{
+  width:50%;
+  height: 65%;
+  margin: 0 auto;
+  /* border: 1px solid green */
+  
 }
-.blurbBox{
-  justify-self: center;
-  background-color: white;
-  height:200px;
- 
-}
-.tagBox{
-  background-color: white;
+
+.champCard{
+  background-color: rgba(197, 195, 195, 0.87);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }

@@ -6,28 +6,14 @@ class ChampCard extends Component {
             <div className='container'>
 
                 <div className='imageBox'>
-                    {/* <img src={this.props.champData.data[this.props.name].image.full}></img> */}
+                    <img src= {this.props.champData.data[this.props.name].image.full} />
+                    {console.log(this.props.champData.data[this.props.name].image.full)}
                 </div>
 
-                <div className='nameBox'>
-                    <h1>
-                        {this.props.champData.data[this.props.name].id}
-                    </h1>
-                </div>
-
-                <div className='titleBox'>
-                    <h2>
-                        {this.props.champData.data[this.props.name].title}
-                    </h2>
-                </div>
-
-                <div className='blurbBox'>
-                    <h2>
-                        {this.props.champData.data[this.props.name].blurb}
-                    </h2>
-                </div>
-
-                <div className='tagBox'>
+                <div className='champCard'>
+                    <h1>{this.props.champData.data[this.props.name].id}</h1>
+                    <h2>{this.props.champData.data[this.props.name].title}</h2>
+                    <text>{this.props.champData.data[this.props.name].blurb}</text>
                     <h3>{this.props.champData.data[this.props.name].tags[0]}</h3>
                     <h3>{this.props.champData.data[this.props.name].tags[1]}</h3>
                     <h3>{this.props.champData.data[this.props.name].tags[2]}</h3>

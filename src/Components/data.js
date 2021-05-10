@@ -17,7 +17,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": '',
+                "full": "/src/Components/LeaguePics/Aatrox.Png",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 0,
