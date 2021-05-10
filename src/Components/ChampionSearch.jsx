@@ -47,7 +47,7 @@ class ChampionSearch extends Component {
 
                 <label>
                     <form onSubmit={this.searchChampion}>
-                        <input typeof="text" name='name' onChange={this.handleChange}></input>
+                        <input typeof="text" name='name' onChange={this.handleChange} placeholder='Do not use spaces'></input>
                         <button typeof='submit'>Search</button>
                         
                     </form>

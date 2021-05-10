@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import ChampCard from './ChampCard';
 import ChampionSearch from './ChampionSearch';
 import apiChampionData from './data.js'
 

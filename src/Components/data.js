@@ -401,9 +401,9 @@ let apiChampionData = {
                 "attackspeed": 0.658
             }
         },
-        "AurelionSol": {
+        "Aurelionsol": {
             "version": "9.3.1",
-            "id": "AurelionSol",
+            "id": "Aurelion Sol",
             "key": "136",
             "name": "Aurelion Sol",
             "title": "The Star Forger",
@@ -2094,9 +2094,9 @@ let apiChampionData = {
                 "attackspeed": 0.625
             }
         },
-        "JarvanIV": {
+        "Jarvaniv": {
             "version": "9.3.1",
-            "id": "JarvanIV",
+            "id": "Jarvan IV",
             "key": "59",
             "name": "Jarvan IV",
             "title": "the Exemplar of Demacia",
@@ -2939,7 +2939,7 @@ let apiChampionData = {
                 "attackspeed": 0.625
             }
         },
-        "KogMaw": {
+        "Kogmaw": {
             "version": "9.3.1",
             "id": "KogMaw",
             "key": "96",
@@ -3039,9 +3039,9 @@ let apiChampionData = {
                 "attackspeed": 0.625
             }
         },
-        "LeeSin": {
+        "Leesin": {
             "version": "9.3.1",
-            "id": "LeeSin",
+            "id": "Lee Sin",
             "key": "64",
             "name": "Lee Sin",
             "title": "the Blind Monk",
@@ -3487,9 +3487,9 @@ let apiChampionData = {
                 "attackspeed": 0.8
             }
         },
-        "MasterYi": {
+        "Masteryi": {
             "version": "9.3.1",
-            "id": "MasterYi",
+            "id": "Master Yi",
             "key": "11",
             "name": "Master Yi",
             "title": "the Wuju Bladesman",
@@ -3537,9 +3537,9 @@ let apiChampionData = {
                 "attackspeed": 0.733
             }
         },
-        "MissFortune": {
+        "Missfortune": {
             "version": "9.3.1",
-            "id": "MissFortune",
+            "id": "Miss Fortune",
             "key": "21",
             "name": "Miss Fortune",
             "title": "the Bounty Hunter",
@@ -3586,7 +3586,7 @@ let apiChampionData = {
                 "attackspeed": 0.656
             }
         },
-        "WuKong": {
+        "Wukong": {
             "version": "9.3.1",
             "id": "MonkeyKing",
             "key": "62",
@@ -4534,7 +4534,7 @@ let apiChampionData = {
                 "attackspeed": 0.625
             }
         },
-        "RekSai": {
+        "Reksai": {
             "version": "9.3.1",
             "id": "RekSai",
             "key": "421",
@@ -5480,7 +5480,7 @@ let apiChampionData = {
                 "attackspeed": 0.625
             }
         },
-        "TahmKench": {
+        "Tahmkench": {
             "version": "9.3.1",
             "id": "TahmKench",
             "key": "223",
