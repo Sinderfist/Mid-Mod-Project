@@ -7,7 +7,7 @@
   border: 1px black solid;
   height:100vh;
   width: 100vw;
-  background-image: url(../src/Components/LeaguePics/League\ background.jpg);
+  background-image: url(../src/Components/Background/League\ background.jpg);
   background-repeat: no-repeat;
   background-size:auto 100vh;
 
@@ -51,8 +51,8 @@ height: 80%;
 }
 
 .champImg{
-  height: 20%;
-  width:20%;
+  height: 40%;
+  width:40%;
   border: solid 1px;
 }
 

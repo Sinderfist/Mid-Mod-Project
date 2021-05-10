@@ -117,7 +117,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Akali.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_32.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 96,
@@ -166,7 +166,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Alistar.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_29.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 144,
@@ -216,7 +216,7 @@ let apiChampionData = {
                 "difficulty": 3
             },
             "image": {
-                "full": "Amumu.png",
+                "full": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b4/Amumu_OriginalCentered.jpg/revision/latest/scale-to-width-down/1280?cb=20180414201911",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 192,
@@ -266,7 +266,7 @@ let apiChampionData = {
                 "difficulty": 10
             },
             "image": {
-                "full": "Anivia.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_0.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 240,
@@ -316,7 +316,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Annie.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_0.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 288,
@@ -365,7 +365,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Ashe.png",
+                "full": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b8/Ashe_OriginalCentered.jpg/revision/latest/scale-to-width-down/1280?cb=20180414201913",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 336,
@@ -415,7 +415,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "AurelionSol.png",
+                "full": "https://cdnportal.mobalytics.gg/production/2020/08/lor-aurelion-sol-reveal-splash.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 384,
@@ -465,7 +465,7 @@ let apiChampionData = {
                 "difficulty": 9
             },
             "image": {
-                "full": "Azir.png",
+                "full": "https://cdnportal.mobalytics.gg/production/2021/03/ea0bee1d-azir-level-1-lor-reveal-splash.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 432,
@@ -515,7 +515,7 @@ let apiChampionData = {
                 "difficulty": 9
             },
             "image": {
-                "full": "Bard.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_8.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 0,
@@ -565,7 +565,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Blitzcrank.png",
+                "full": "https://cdn1.dotesports.com/wp-content/uploads/2020/08/17222710/Blitzcrank_6.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 48,
@@ -615,7 +615,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Brand.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_0.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 96,
@@ -664,7 +664,7 @@ let apiChampionData = {
                 "difficulty": 3
             },
             "image": {
-                "full": "Braum.png",
+                "full": "https://www.runeterrafire.com/images/social/toplists/braum.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 144,
@@ -714,7 +714,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Caitlyn.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_19.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 192,
@@ -763,7 +763,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Camille.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_10.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 240,
@@ -813,7 +813,7 @@ let apiChampionData = {
                 "difficulty": 10
             },
             "image": {
-                "full": "Cassiopeia.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_0.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 288,
@@ -862,7 +862,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Chogath.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_14.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 336,
@@ -912,7 +912,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Corki.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_0.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 384,
@@ -961,7 +961,7 @@ let apiChampionData = {
                 "difficulty": 2
             },
             "image": {
-                "full": "Darius.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_24.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 432,
@@ -1011,7 +1011,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Diana.png",
+                "full": "https://cdn-images.win.gg/resize/w/800/h/600/format/jpg/type/progressive/fit/cover/path/news/images/3646/b1f83f16f3d856b67062d8aa0111c33c/original.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 0,
@@ -1061,7 +1061,7 @@ let apiChampionData = {
                 "difficulty": 8
             },
             "image": {
-                "full": "Draven.png",
+                "full": "https://www.mobafire.com/images/champion/skins/landscape/draven-ruined.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 48,
@@ -1110,7 +1110,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "DrMundo.png",
+                "full": "https://cdn1.dotesports.com/wp-content/uploads/2018/11/27161922/mundo-winter.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 96,
@@ -1160,7 +1160,7 @@ let apiChampionData = {
                 "difficulty": 8
             },
             "image": {
-                "full": "Ekko.png",
+                "full": "https://cdn1.dotesports.com/wp-content/uploads/2019/11/04131744/Ekkosmall.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 144,
@@ -1210,7 +1210,7 @@ let apiChampionData = {
                 "difficulty": 9
             },
             "image": {
-                "full": "Elise.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_0.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 192,
@@ -1260,7 +1260,7 @@ let apiChampionData = {
                 "difficulty": 10
             },
             "image": {
-                "full": "Evelynn.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_0.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 240,
@@ -1310,7 +1310,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Ezreal.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_18.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 288,
@@ -1360,7 +1360,7 @@ let apiChampionData = {
                 "difficulty": 9
             },
             "image": {
-                "full": "Fiddlesticks.png",
+                "full": "https://i.pinimg.com/originals/aa/65/15/aa6515c1df54e55f0e4fefb7cc68dad7.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 336,
@@ -1410,7 +1410,7 @@ let apiChampionData = {
                 "difficulty": 3
             },
             "image": {
-                "full": "Fiora.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_0.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 384,
@@ -1460,7 +1460,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Fizz.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_3.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 432,
@@ -1510,7 +1510,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Galio.png",
+                "full": "https://lolstatic-a.akamaihd.net/frontpage/apps/prod/rg-galio-update-2017/en_US/f554ef373e0e733bbe72addb2603447d72a4fec4/assets/img/galio_1200x630.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 0,
@@ -1560,7 +1560,7 @@ let apiChampionData = {
                 "difficulty": 9
             },
             "image": {
-                "full": "Gangplank.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_0.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 48,
@@ -1609,7 +1609,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Garen.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_13.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 96,
@@ -1659,7 +1659,7 @@ let apiChampionData = {
                 "difficulty": 8
             },
             "image": {
-                "full": "Gnar.png",
+                "full": "https://pbs.twimg.com/profile_images/1365417364234399744/olaSc9et_400x400.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 144,
@@ -1709,7 +1709,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Gragas.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_0.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 192,
@@ -1759,7 +1759,7 @@ let apiChampionData = {
                 "difficulty": 3
             },
             "image": {
-                "full": "Graves.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_14.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 240,
@@ -1808,7 +1808,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Hecarim.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_14.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 288,
@@ -1858,7 +1858,7 @@ let apiChampionData = {
                 "difficulty": 8
             },
             "image": {
-                "full": "Heimerdinger.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_0.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 336,
@@ -1908,7 +1908,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Illaoi.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_0.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 384,
@@ -1958,7 +1958,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Irelia.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_0.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 432,
@@ -2008,7 +2008,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Ivern.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_0.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 0,
@@ -2058,7 +2058,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Janna.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_27.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 48,
@@ -2108,7 +2108,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "JarvanIV.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_0.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 96,
@@ -2158,7 +2158,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Jax.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_0.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 144,
@@ -2208,7 +2208,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Jayce.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_0.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 192,
@@ -2258,7 +2258,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Jhin.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_5.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 240,
@@ -2308,7 +2308,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Jinx.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 288,
@@ -2357,7 +2357,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Kaisa.png",
+                "full": "https://cdn1.dotesports.com/wp-content/uploads/2020/10/09113320/ALLOUT_Kaisa.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 336,
@@ -2406,7 +2406,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Kalista.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_5.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 384,
@@ -2455,7 +2455,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Karma.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_19.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 432,
@@ -2505,7 +2505,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Karthus.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_0.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 0,
@@ -2554,7 +2554,7 @@ let apiChampionData = {
                 "difficulty": 8
             },
             "image": {
-                "full": "Kassadin.png",
+                "full": "https://i.redd.it/hp8ih2w6c4q51.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 48,
@@ -2604,7 +2604,7 @@ let apiChampionData = {
                 "difficulty": 8
             },
             "image": {
-                "full": "Katarina.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_0.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 96,
@@ -2654,7 +2654,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Kayle.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_3.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 144,
@@ -2704,7 +2704,7 @@ let apiChampionData = {
                 "difficulty": 8
             },
             "image": {
-                "full": "Kayn.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_2.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 192,
@@ -2754,7 +2754,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Kennen.png",
+                "full": "https://i.pinimg.com/originals/f8/56/ca/f856ca90f2077ff12a90bd39b0492942.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 240,
@@ -2804,7 +2804,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Khazix.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_0.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 288,
@@ -2854,7 +2854,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Kindred.png",
+                "full": "https://i.redd.it/otn2747h68c51.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 336,
@@ -2903,7 +2903,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Kled.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_0.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 384,
@@ -2953,7 +2953,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "KogMaw.png",
+                "full": "https://chromedia.lol/wp-content/uploads/2021/02/BeeMaw-KogMaw-Splash-Art-1.jpg",
                 "sprite": "champion1.png",
                 "group": "champion",
                 "x": 432,
@@ -3003,7 +3003,7 @@ let apiChampionData = {
                 "difficulty": 9
             },
             "image": {
-                "full": "Leblanc.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_20.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 0,
@@ -3053,7 +3053,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "LeeSin.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_4.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 48,
@@ -3103,7 +3103,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Leona.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_11.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 96,
@@ -3153,7 +3153,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Lissandra.png",
+                "full": "https://cdnportal.mobalytics.gg/production/2021/02/dbb4df89-lissandra-level-2-lor-reveal.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 144,
@@ -3202,7 +3202,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Lucian.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_0.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 192,
@@ -3251,7 +3251,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Lulu.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_0.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 240,
@@ -3301,7 +3301,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Lux.png",
+                "full": "https://i.redd.it/p6bpj9nq8fn61.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 288,
@@ -3351,7 +3351,7 @@ let apiChampionData = {
                 "difficulty": 2
             },
             "image": {
-                "full": "Malphite.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_0.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 336,
@@ -3401,7 +3401,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Malzahar.png",
+                "full": "https://pbs.twimg.com/media/Euc1dg_VoAU6sp6?format=jpg&name=4096x4096",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 384,
@@ -3451,7 +3451,7 @@ let apiChampionData = {
                 "difficulty": 3
             },
             "image": {
-                "full": "Maokai.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_0.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 432,
@@ -3501,7 +3501,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "MasterYi.png",
+                "full": "https://blogoflegends.com/files/2020/07/MasterYi_2-850x560.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 0,
@@ -3551,7 +3551,7 @@ let apiChampionData = {
                 "difficulty": 1
             },
             "image": {
-                "full": "MissFortune.png",
+                "full": "https://cdna.artstation.com/p/assets/images/images/002/808/412/large/michelle-hoefener-new-arcade-miss-fortune.jpg?1465956273&dl=1",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 48,
@@ -3586,7 +3586,7 @@ let apiChampionData = {
                 "attackspeed": 0.656
             }
         },
-        "MonkeyKing": {
+        "WuKong": {
             "version": "9.3.1",
             "id": "MonkeyKing",
             "key": "62",
@@ -3600,7 +3600,7 @@ let apiChampionData = {
                 "difficulty": 3
             },
             "image": {
-                "full": "MonkeyKing.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MonkeyKing_0.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 96,
@@ -3650,7 +3650,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Mordekaiser.png",
+                "full": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c1/Mordekaiser_OriginalCentered.jpg/revision/latest/scale-to-width-down/1280?cb=20190607213523",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 144,
@@ -3699,7 +3699,7 @@ let apiChampionData = {
                 "difficulty": 1
             },
             "image": {
-                "full": "Morgana.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_6.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 192,
@@ -3749,7 +3749,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Nami.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_1.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 240,
@@ -3799,7 +3799,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Nasus.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_11.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 288,
@@ -3849,7 +3849,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Nautilus.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_3.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 336,
@@ -3899,7 +3899,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Neeko.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_0.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 384,
@@ -3949,7 +3949,7 @@ let apiChampionData = {
                 "difficulty": 8
             },
             "image": {
-                "full": "Nidalee.png",
+                "full": "https://i.redd.it/d4u68hnyk7z41.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 432,
@@ -3999,7 +3999,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Nocturne.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_0.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 0,
@@ -4049,7 +4049,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Nunu.png",
+                "full": "https://static.wikia.nocookie.net/leagueoflegends/images/0/09/Nunu_OriginalCentered.jpg/revision/latest/scale-to-width-down/1280?cb=20180828194858",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 48,
@@ -4099,7 +4099,7 @@ let apiChampionData = {
                 "difficulty": 3
             },
             "image": {
-                "full": "Olaf.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_0.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 96,
@@ -4149,7 +4149,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Orianna.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_0.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 144,
@@ -4199,7 +4199,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Ornn.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_0.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 192,
@@ -4249,7 +4249,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Pantheon.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 240,
@@ -4299,7 +4299,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Poppy.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_0.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 288,
@@ -4349,7 +4349,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Pyke.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_0.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 336,
@@ -4399,7 +4399,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Quinn.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_0.jpg",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 384,
@@ -4449,7 +4449,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Rakan.png",
+                "full": "https://static.wikia.nocookie.net/leagueoflegends/images/5/55/Rakan_OriginalCentered.jpg/revision/latest/scale-to-width-down/1280?cb=20180414203504",
                 "sprite": "champion2.png",
                 "group": "champion",
                 "x": 432,
@@ -4498,7 +4498,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Rammus.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 0,
@@ -4548,7 +4548,7 @@ let apiChampionData = {
                 "difficulty": 3
             },
             "image": {
-                "full": "RekSai.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/RekSai_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 48,
@@ -4597,7 +4597,7 @@ let apiChampionData = {
                 "difficulty": 3
             },
             "image": {
-                "full": "Renekton.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 96,
@@ -4647,7 +4647,7 @@ let apiChampionData = {
                 "difficulty": 8
             },
             "image": {
-                "full": "Rengar.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 144,
@@ -4697,7 +4697,7 @@ let apiChampionData = {
                 "difficulty": 8
             },
             "image": {
-                "full": "Riven.png",
+                "full": "https://smurfmania.com/wp-content/uploads/2019/11/battle-bunny-riven-art.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 192,
@@ -4747,7 +4747,7 @@ let apiChampionData = {
                 "difficulty": 10
             },
             "image": {
-                "full": "Rumble.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_3.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 240,
@@ -4797,7 +4797,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Ryze.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 288,
@@ -4847,7 +4847,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Sejuani.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 336,
@@ -4897,7 +4897,7 @@ let apiChampionData = {
                 "difficulty": 9
             },
             "image": {
-                "full": "Shaco.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 384,
@@ -4946,7 +4946,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Shen.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 432,
@@ -4995,7 +4995,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Shyvana.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 0,
@@ -5045,7 +5045,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Singed.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 48,
@@ -5095,7 +5095,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Sion.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 96,
@@ -5145,7 +5145,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Sivir.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 144,
@@ -5194,7 +5194,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Skarner.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_5.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 192,
@@ -5244,7 +5244,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Sona.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 240,
@@ -5294,7 +5294,7 @@ let apiChampionData = {
                 "difficulty": 3
             },
             "image": {
-                "full": "Soraka.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_15.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 288,
@@ -5344,7 +5344,7 @@ let apiChampionData = {
                 "difficulty": 8
             },
             "image": {
-                "full": "Swain.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 336,
@@ -5394,7 +5394,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Sylas.png",
+                "full": "https://static.wikia.nocookie.net/leagueoflegends/images/7/71/Sylas_OriginalCentered.jpg/revision/latest?cb=20190109034515",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 384,
@@ -5444,7 +5444,7 @@ let apiChampionData = {
                 "difficulty": 8
             },
             "image": {
-                "full": "Syndra.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 432,
@@ -5494,7 +5494,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "TahmKench.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 0,
@@ -5544,7 +5544,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Taliyah.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 48,
@@ -5594,7 +5594,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Talon.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 96,
@@ -5644,7 +5644,7 @@ let apiChampionData = {
                 "difficulty": 3
             },
             "image": {
-                "full": "Taric.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 144,
@@ -5694,7 +5694,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Teemo.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 192,
@@ -5744,7 +5744,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Thresh.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 240,
@@ -5794,7 +5794,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Tristana.png",
+                "full": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fblogoflegends.com%2Ffiles%2F2019%2F05%2FTristana_OriginalSkin.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 288,
@@ -5844,7 +5844,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Trundle.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 336,
@@ -5894,7 +5894,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Tryndamere.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 384,
@@ -5944,7 +5944,7 @@ let apiChampionData = {
                 "difficulty": 9
             },
             "image": {
-                "full": "TwistedFate.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_0.jpg",
                 "sprite": "champion3.png",
                 "group": "champion",
                 "x": 432,
@@ -5993,7 +5993,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Twitch.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_0.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 0,
@@ -6043,7 +6043,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Udyr.png",
+                "full": "https://rtoacademy.com/wp-content/uploads/2020/02/Udyr-1.png",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 48,
@@ -6093,7 +6093,7 @@ let apiChampionData = {
                 "difficulty": 8
             },
             "image": {
-                "full": "Urgot.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_0.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 96,
@@ -6143,7 +6143,7 @@ let apiChampionData = {
                 "difficulty": 2
             },
             "image": {
-                "full": "Varus.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_0.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 144,
@@ -6193,7 +6193,7 @@ let apiChampionData = {
                 "difficulty": 8
             },
             "image": {
-                "full": "Vayne.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_0.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 192,
@@ -6243,7 +6243,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Veigar.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_0.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 240,
@@ -6292,7 +6292,7 @@ let apiChampionData = {
                 "difficulty": 8
             },
             "image": {
-                "full": "Velkoz.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_0.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 288,
@@ -6341,7 +6341,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Vi.png",
+                "full": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c5/Vi_OriginalCentered.jpg/revision/latest/scale-to-width-down/1280?cb=20180414203724",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 336,
@@ -6391,7 +6391,7 @@ let apiChampionData = {
                 "difficulty": 9
             },
             "image": {
-                "full": "Viktor.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_0.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 384,
@@ -6440,7 +6440,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Vladimir.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_0.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 432,
@@ -6490,7 +6490,7 @@ let apiChampionData = {
                 "difficulty": 3
             },
             "image": {
-                "full": "Volibear.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_0.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 0,
@@ -6540,7 +6540,7 @@ let apiChampionData = {
                 "difficulty": 3
             },
             "image": {
-                "full": "Warwick.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_0.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 48,
@@ -6590,7 +6590,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Xayah.png",
+                "full": "https://static.wikia.nocookie.net/leagueoflegends/images/6/66/Xayah_OriginalCentered.jpg/revision/latest/scale-to-width-down/1280?cb=20180414203728",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 96,
@@ -6639,7 +6639,7 @@ let apiChampionData = {
                 "difficulty": 8
             },
             "image": {
-                "full": "Xerath.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_0.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 144,
@@ -6689,7 +6689,7 @@ let apiChampionData = {
                 "difficulty": 2
             },
             "image": {
-                "full": "XinZhao.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_0.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 192,
@@ -6739,7 +6739,7 @@ let apiChampionData = {
                 "difficulty": 10
             },
             "image": {
-                "full": "Yasuo.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_36.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 240,
@@ -6789,7 +6789,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Yorick.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_0.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 288,
@@ -6839,7 +6839,7 @@ let apiChampionData = {
                 "difficulty": 8
             },
             "image": {
-                "full": "Zac.png",
+                "full": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5a/Zac_OriginalCentered.jpg/revision/latest?cb=20180414203800",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 336,
@@ -6889,7 +6889,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Zed.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_0.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 384,
@@ -6939,7 +6939,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "Ziggs.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_0.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 432,
@@ -6988,7 +6988,7 @@ let apiChampionData = {
                 "difficulty": 6
             },
             "image": {
-                "full": "Zilean.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_0.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 0,
@@ -7038,7 +7038,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Zoe.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_0.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 48,
@@ -7088,7 +7088,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "Zyra.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_0.jpg",
                 "sprite": "champion4.png",
                 "group": "champion",
                 "x": 96,
@@ -7128,9 +7128,9 @@ let apiChampionData = {
             "version": "",
             "id": "",
             "key": "",
-            "name": "",
-            "title": "",
-            "blurb": "",
+            "name": "Champion Name",
+            "title": "Champion Title",
+            "blurb": "Champion Info",
             "info": {
                 "attack": 4,
                 "defense": 3,
@@ -7147,7 +7147,7 @@ let apiChampionData = {
                 "h": 48
             },
             "tags": [
-                "",
+                "Champion Popular Roles",
                 ""
             ],
             "partype": "Mana",
