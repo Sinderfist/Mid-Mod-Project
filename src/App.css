@@ -49,3 +49,16 @@ height: 80%;
   align-items: center;
   justify-content: center;
 }
+
+.champImg{
+  height: 20%;
+  width:20%;
+  border: solid 1px;
+}
+
+.catchErr{
+  height: 50%;
+  width:100%;
+  background-color: rgba(197, 195, 195, 0.87);
+  
+}

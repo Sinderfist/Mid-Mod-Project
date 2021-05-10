@@ -17,7 +17,7 @@ let apiChampionData = {
                 "difficulty": 4
             },
             "image": {
-                "full": "/src/Components/LeaguePics/Aatrox.Png",
+                "full": "https://cdn.vox-cdn.com/thumbor/pjnFTC8wbMFmlqSnfxoeupdCHUE=/0x0:1280x720/1400x1050/filters:focal(742x211:946x415):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/53583899/Aatrox_splash.0.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 0,
@@ -67,7 +67,7 @@ let apiChampionData = {
                 "difficulty": 5
             },
             "image": {
-                "full": "Ahri.png",
+                "full": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_28.jpg",
                 "sprite": "champion0.png",
                 "group": "champion",
                 "x": 48,
@@ -7138,7 +7138,7 @@ let apiChampionData = {
                 "difficulty": 7
             },
             "image": {
-                "full": "",
+                "full": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt4caa00eebf88365d/607e18ef12dc9d3c683563fb/Client_Blog_Header_v2.jpg",
                 "sprite": "",
                 "group": "",
                 "x": 96,

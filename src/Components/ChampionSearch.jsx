@@ -27,9 +27,10 @@ class ChampionSearch extends Component {
     searchChampion = (event) => {
         event.preventDefault()
         let word = this.state.userInput
-        
-        this.setState({ name: word.charAt(0).toUpperCase() + word.slice(1) })
-
+        word = word.toLowerCase()
+        let editedWord = word.charAt(0).toUpperCase() + word.slice(1)
+        console.log(editedWord)
+        this.setState({ name: editedWord  })
     }
 
     render() {
