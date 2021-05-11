@@ -5,14 +5,17 @@ import ChampCard from './ChampCard';
 class ChampionSearch extends Component {
     constructor() {
         super()
+    //these are the two things in state that I'm going to be changing on this page and passing through props    
         this.state = {
             userInput: '',
+
+            //this is what is populating and displaying my default from my data.js
             name: 'NoNameYet'
 
         }
     }
 
-
+//Handles the change for my input field and changes the state of UserInput
     handleChange = (event) => {
         this.setState({
             userInput: event.target.value
@@ -20,10 +23,8 @@ class ChampionSearch extends Component {
         console.log(this.userInput)
     }
 
-    // spellingCorrector = (input) => {
-    //     (console.log('input'))
-    // }
 
+    //This is the onsubmit function for my form that put the word in the correct format for search then changes the state of the name to the user's input
     searchChampion = (event) => {
         event.preventDefault()
         let word = this.state.userInput
